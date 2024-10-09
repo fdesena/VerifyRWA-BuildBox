@@ -1,0 +1,14 @@
+
+{
+  "name": "ava-protocol-sdk-example-polygon",
+  "version": "1.0.0",
+  "description": "Example project for automating smart contract functions using Ava Protocol SDK on Polygon network.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@avaprotocol/sdk": "^1.0.0",
+    "web3": "^1.5.0"
+  }
+}
