@@ -12,3 +12,9 @@
 - Real-Time Updates*: Investors can follow assets, receiving real-time updates and notifications on changes in performance, risks, or security issues.
 
 *VerifyRWA* aims to standardize the evaluation of tokenized RWAs, helping to build trust in the DeFi space by ensuring transparency, mitigating risks, and promoting responsible investment practices
+
+
+Smart contracts:
+
+EvaluatorRegistry: 0x6C4b5478141BF30BD94DC033740a1eF96E79a943
+RwaEvaluation: 0xB45B962D973606aFEdbcb21Ac0f622a8285D77E0
