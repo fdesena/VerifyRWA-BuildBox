@@ -99,7 +99,7 @@ const SignIn: React.FC = () => {
               <Link className="mb-5.5 inline-block" href="/">
                 <Image
                   className="dark:hidden"
-                  src={"https://raw.githubusercontent.com/fdesena/VerifyRWA/refs/heads/main/public/images/logo/logoRWA.jpg"}
+                  src={"https://raw.githubusercontent.com/fdesena/VerifyRWA/refs/heads/main/public/images/logo/Verifyrwa.jpeg"}
                   alt="Logo"
                   width={176}
                   height={32}
