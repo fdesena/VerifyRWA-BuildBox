@@ -17,4 +17,5 @@
 Smart contracts:
 
 EvaluatorRegistry: 0x6C4b5478141BF30BD94DC033740a1eF96E79a943
+
 RwaEvaluation: 0xB45B962D973606aFEdbcb21Ac0f622a8285D77E0
